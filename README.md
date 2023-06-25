@@ -1,8 +1,8 @@
-# xcc
+# XCC - eXtended C Compilier
 Such as: code scanning, coverage instrumentation, and production of coverage reports, etc. only  for C language project
 
 
-======================================== Software License Agreement ======================================== 
+# Software License Agreement 
 
 XCC Software License Agreement:
 
@@ -20,7 +20,7 @@ Important Notice: By using this software, you indicate that you have read and ac
 
 [Pizer.Fan]
 
-======================================== Example Description ========================================
+# Example Description 
 
 clean.bat: Used to clean intermediate object files.
 
