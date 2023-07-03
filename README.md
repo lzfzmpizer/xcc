@@ -1,5 +1,5 @@
 # XCC - eXtended C Compilier
-Such as: code scanning, coverage instrumentation, and production of coverage reports, etc. only  for C language project
+Such as: code scanning, coverage instrumentation, and production of code coverage reports, etc. only  for C language project
 
 
 # Software License Agreement 
